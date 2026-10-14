@@ -1,0 +1,26 @@
+[
+  {
+    "Artist": "Zild",
+    "AlbumTitle": "Medisina",
+    "FavoriteSong": "Duda",
+    "Rating": 8,
+    "ReleaseYear": 2022,
+    "Comments": "sugoi~~~"
+  },
+  {
+    "Artist": "The Strokes",
+    "AlbumTitle": "The New Abnormal",
+    "FavoriteSong": "Selfless",
+    "Rating": 10,
+    "ReleaseYear": 2020,
+    "Comments": "this rocks"
+  },
+  {
+    "Artist": "Radiohead",
+    "AlbumTitle": "Ok Computer",
+    "FavoriteSong": "Subterranean Homesick Alien",
+    "Rating": 10,
+    "ReleaseYear": 1997,
+    "Comments": "masterpiece!"
+  }
+]
